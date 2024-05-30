@@ -44,7 +44,7 @@ Eğer bir şifreyi çözmek isterseniz:
 
 **Not:** Bu araç eğitim amaçları ve temel şifreleme ihtiyaçları için tasarlanmıştır. Güçlü güvenlik gerektiren hassas veya kritik bilgiler için kullanılmamalıdır. Güvenli iletişim için her zaman iyi kurulmuş şifreleme yöntemlerini seçin.
 
-**--------------------------------------------------------------------------------------------------------------------------**
+---
 
 # International Letter Cryptography Tool
 
